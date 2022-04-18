@@ -33,7 +33,7 @@ const Intro = ({ onFinish }) => {
           style={styles.textInput}
         />
         {name.trim().length >= 3 ? (
-          <RoundIconBtn antIconName='arrowright' onPress={handleSubmit} />
+          <RoundIconBtn antIconName='arrow-alt-circle-up' onPress={handleSubmit} />
         ) : null}
       </View>
     </>
