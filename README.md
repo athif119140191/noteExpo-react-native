@@ -1,6 +1,7 @@
 # noteExpo-react-native
 ## About The Project
 Application name : noteExpo
+
 Aplikasi ini digunakan untuk membuat memo dan todo list atau task. Memo dan task yang dibuat dapat diedit dan dihapus. Memo dapat dicari dengan SearchBar
 apabila sudah terlalu banyak.
 
